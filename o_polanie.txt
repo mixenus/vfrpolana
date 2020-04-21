@@ -1,0 +1,19 @@
+Jako ¿e wobec naszych skromnych projektów naros³o nieco nieporozumieñ, warto odpowiedzieæ na kilka podstawowych pytañ i rozwiaæ nieuzasadnione w¹tpliwoœci:
+
+1. Czym jest VFR Polana
+VFR Polana to po prostu projektem ma³ej scenerii do MSFS, któr¹ traktujemy z jednej strony jako okazjê do wspólnej zabawy, zaœ z drugiej jako swoisty poligon doœwiadczalny dla kolejnych, bardziej ju¿ zaawansowanych produktów, które zamierzamy sukcesywnie przedstawiaæ naszym u¿ytkownikom i wprowadzaæ do mniej lub bardziej powszechnego stosowania - czy to dla potrzeb zabawy w ramach sieci VATSIM, czy te¿ sesji multiplayer. 
+
+2. Czy VFR Polana to jakaœ kpina ?
+Có¿, nie da siê ukryæ ¿e to chyba zarzut najczêœciej stawiany naszemu projektowi. Czy trafiony ? Odpowiedzmy wprost - pomys³ przyst¹pienia do samodzielnej nauki budowania scenerii ma swoje pra-Ÿród³o w napomnieniach którym byliœmy poddawani wypowiadaj¹c siê czasem na temat innych tego typu projektów ( '³atwo krytykowaæ, trudniej zrobiæ coœ samemu'). Uznaliœmy, ¿e coœ w tym jest - i postanowiliœmy po prostu spróbowaæ. Polana to zatem nie kpina ( któ¿ mia³by tyle si³y ), ale konstruktywna forma aktywnoœci i spo¿ytkowania ludzkiej energii w zakresie nauki, budowania i rozwijania scenerii które mog¹ staæ siê miejscem wspólnej zabawy tych, którzy zechc¹ w niej wraz z nami uczestniczyæ. Powtarzamy - zabawy, bo tak postrzegamy ca³y ten wirtualny œwiatek. A w zabawê mo¿na siê bawiæ lub nie. Aby tylko nie straciæ zdrowego dystansu do tego co siê robi i do siebie samego...
+
+3. Dlaczego akurat polana ?
+Ka¿dy œwiat ma swój pocz¹tek. Zwykle nie jest on zbyt imponuj¹cy, niemniej ma przewa¿nie du¿y potencja³ rozwojowy. I dlatego w³aœnie bazowa VFR Polana - prosta i jednolita struktura na której mo¿na zacz¹æ budowaæ wirtualne projekty o coraz wiêkszym stopniu zaawansowania. Mo¿emy tu testowaæ pomys³y swoje i u¿ytkowników, modyfikowaæ je i rozbudowywaæ, wypróbowywaæ narzêdzia i tworzyæ wspólnie koncepcje, które przerodz¹ siê w coœ bardziej zaawansowanego. A tak¿e œwietnie i bez przymusu wspólnie siê bawiæ.
+
+4. Jak to w³aœciwie dzia³a
+Istot¹ naszego pomys³u jest dzia³anie razem - deweloperzy i u¿ytkownicy wymieniaj¹ siê pomys³ami i buduj¹ wspólnie poszczególne elementy Polany tak, aby satysfakcjonowa³a ich jej jakoœæ i zawartoœæ. Niektóre pomys³y zapewne nie sprawdz¹ siê w ogóle. Niektóre bêd¹ wymaga³y istotnych modyfikacji lub po prostu wiêkszej praktyki i opanowania dostêpnych narzêdzi. Wspólnego budowania i u¿ytkowania. Ilu z u¿ytkowników zechce dodaæ swój w³asny obiekt ? Ilu deweloperów wkomponuje go w wiêksz¹ ca³oœæ ? Wydaje siê ze walor edukacyjny zabawy jest tu oczywisty. A ¿e przy okazji powstanie zapewne jakaœ sensowna sceneria czy dwie - no có¿, to chyba nie powód do lamentów ?
+
+5. VFR Polana to produkt...
+Darmowy, ogólnodostêpny ( freeware ). To co robimy naprawdê postrzegamy jako zabawê - a za to nie wypada naszym zdaniem braæ pieniêdzy. Dotyczy to wszelkich produktów firmowanych tym znakiem. 
+
+6. I co dalej ?
+Hmm - dalej nie pytaj co VFR Polana mo¿e zrobiæ dla Ciebie, zapytaj co Ty mo¿esz zrobiæ dla VFR Polany
